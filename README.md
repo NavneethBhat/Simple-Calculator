@@ -16,12 +16,16 @@ Demonstrates React state and event handling concepts.
 
 ## Getting Started:
 1. Clone this repository:
-   ` git clone https://github.com/yourusername/simple-react-calculator.git
-2. Navigate to the project directory:
-   `` cd simple-react-calculator
-3. Install dependencies:
+   ```bash
+   git clone https://github.com/yourusername/simple-react-calculator.git
+3. Navigate to the project directory:
+   ```bash
+   cd simple-react-calculator
+4. Install dependencies:
+   ```bash
    npm install
-4. Run the development server:
+5. Run the development server:
+   ```bash
    npm start
 
 ## Contribution:
