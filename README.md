@@ -1,7 +1,7 @@
 # Basic Calculator using ReactJS
 A basic calculator application built with ReactJS, designed for performing simple arithmetic operations like addition, subtraction, multiplication, and division. The app features a clean and responsive user interface, ideal for learning the basics of React components, state, and event handling.
 
-Quick Launch: https://simple-calculator-using-reactjs.netlify.app/
+Quick Launch: [Simple-Calculator-Using-ReactJS](https://simple-calculator-using-reactjs.netlify.app/)
 
 ### Screenshots:
 ![Screenshot 2024-04-29 090815](https://github.com/UmairFaheem042/react_basic_calculator/assets/103030494/aea5fc77-5de4-4446-a262-50fc5f8d3a30)
