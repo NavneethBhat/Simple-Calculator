@@ -16,9 +16,9 @@ Demonstrates React state and event handling concepts.
 
 ## Getting Started:
 1. Clone this repository:
-   git clone https://github.com/yourusername/simple-react-calculator.git
+   ` git clone https://github.com/yourusername/simple-react-calculator.git
 2. Navigate to the project directory:
-   cd simple-react-calculator
+   `` cd simple-react-calculator
 3. Install dependencies:
    npm install
 4. Run the development server:
