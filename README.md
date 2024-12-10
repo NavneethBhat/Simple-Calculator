@@ -11,9 +11,8 @@ Built with modular React components for easy code management.
 Demonstrates React state and event handling concepts.
 
 ## Technologies Used:
-ReactJS
-HTML5
-CSS3
+1. ReactJS
+2. Tailwind CSS
 
 ## Getting Started:
 1. Clone this repository:
